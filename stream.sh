@@ -13,7 +13,7 @@ interval_sec=10
 
 n_lines=$(cat $file | wc -l)
 
-cursor=1
+cursor=10
 
 while test $cursor -le $n_lines
 do 
