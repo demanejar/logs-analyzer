@@ -1,6 +1,3 @@
-# logs-analyzer
-parse log
-
 # Run programming
 ```
 sbt clean package
